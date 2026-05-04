@@ -22,6 +22,7 @@ This project analyzes 3,900 customer purchase records to understand what drives 
 - **Type:** Retail customer transactional dataset
 - **Records:** 3,900 rows × 18 columns
 - **Key Fields:**
+  
 | Field Group | Columns |
 |---|---|
 | Customer Demographics | Age, Gender, Location, Subscription Status |
