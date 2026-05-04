@@ -16,3 +16,7 @@ This project analyzes 3,900 customer purchase records to understand what drives 
 | **Visualization** | Power BI Desktop |
 | **Reporting** | Microsoft Word / PDF |
 | **Version Control** | Git & GitHub |
+
+## 📂 Data Source
+
+**Type:** 
