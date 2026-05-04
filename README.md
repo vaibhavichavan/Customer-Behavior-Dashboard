@@ -60,3 +60,6 @@ This project analyzes 3,900 customer purchase records to understand what drives 
 - **Review Discount Policy** — Balance promotional discounts with profit margin control
 - **Product Positioning** — Highlight top-rated items (Gloves, Sandals, Boots) in marketing campaigns
 - **Targeted Marketing** — Focus spend on Young Adults and Express-shipping users who show higher purchase intent
+
+## 📸 Dashboard Screenshot
+
