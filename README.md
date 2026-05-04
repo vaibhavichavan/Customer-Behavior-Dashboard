@@ -63,3 +63,5 @@ This project analyzes 3,900 customer purchase records to understand what drives 
 
 ## 📸 Dashboard Screenshot
 
+![Customer Behavior Dashboard](https://github.com/vaibhavichavan/Customer-Behavior-Dashboard/blob/main/Dashboard.png)
+
